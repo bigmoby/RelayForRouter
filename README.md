@@ -2,13 +2,13 @@
 
 Send command like that: 
 
-`curl -i -X GET 192.168.1.9/switch`
+`curl -i -X GET 192.168.1.201/switch`
 
-`curl -i -X GET 192.168.1.9/offThenOnSwitch`
+`curl -i -X GET 192.168.1.201/offThenOnSwitch`
 
-`curl -i -X GET 192.168.1.9/temporarySwitch`
+`curl -i -X GET 192.168.1.201/temporarySwitch`
 
-`curl -i -X GET 192.168.1.9/state`
+`curl -i -X GET 192.168.1.201/state`
 
 Pinout for NodeMCU:
 
